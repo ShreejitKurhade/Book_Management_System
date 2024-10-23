@@ -1,6 +1,4 @@
-Project Title Book Management System 
-Technologies Used C 
-Description The Book Management System is designed to efficiently organize and 
+The Book Management System is designed to efficiently organize and 
 manage comprehensive information about books. This system supports 
 a range of operations to ensure effective management of book records, 
 including adding, removing, searching, updating, and displaying books 
